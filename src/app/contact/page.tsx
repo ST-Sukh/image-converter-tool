@@ -104,7 +104,7 @@ export default function ContactPage() {
           </div>
           <div>
             <label className="text-sm font-semibold text-[color:var(--foreground)]">
-              What do you need?
+              What do you need? 
             </label>
             <textarea
               rows={4}
